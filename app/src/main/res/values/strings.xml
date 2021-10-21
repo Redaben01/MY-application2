@@ -1,0 +1,10 @@
+
+<resources>
+    <string name="app_name">Application</string>
+    <string name="enter_name">Ecris ton Nom </string>
+    <string name="click_me">Ajouter</string>
+    <string name="hint">Ecris ton Nom  </string>
+
+
+</resources>
+ 
